@@ -1,0 +1,14 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local Chroma database (rebuilt automatically on first run)
+ma_base/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
